@@ -1,5 +1,6 @@
 # Sistemas Não-Lineares
 
-Somente um método de Newton Modificado foi implementado, utilizando Jacobiana do chute inicial fixa e somente para sistemas 2x2.
+O Newton Modificado foi implementado, utilizando Jacobiana do chute inicial fixa e somente para sistemas 2x2.
+Não sei se irei estender para maiores dimensões.
 
-Não sei se irei estender para outros métodos ou maiores dimensões.
+Os códigos em C++ e Headers se referem a um trabalho de Análise Numérica que infelizmente não possuo as instruções, mas o código provavelmente pode ser utilizado em outros problemas.
