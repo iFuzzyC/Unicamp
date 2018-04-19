@@ -1,8 +1,10 @@
-A B 2
-A C 2
-A D 3
-B C 4
-B E 5
-C E 3
-D C 1
-D E 6
+AB2
+CA-4
+CB3
+CD-7
+DA2
+EC10
+ED5
+EF4
+FA5
+FD1
